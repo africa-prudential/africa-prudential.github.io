@@ -1,3 +1,5 @@
 body {
     --primary: #FE0100;
+    --brand-color: green;
+    --ion-color-primary-tint: aqua;
 }
