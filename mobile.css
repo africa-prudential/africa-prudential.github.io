@@ -2,4 +2,9 @@ body {
     --primary: #FE0100;
     --brand-color: green;
     --ion-color-primary-tint: aqua;
+    --ion-font-family: "Poppins", "Times New Roman", Times, serif;
+}
+
+.toolbar-container {
+    background-image: url(https://tefconnect.net/static/media/logo_new.4eee159d.webp);
 }
